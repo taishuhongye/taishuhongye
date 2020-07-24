@@ -13,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-🔭我目前正在研究... Android
+-🌱我正在学习...  kotlin Java Flutter
+-👯我正在寻求合作... 一起刷题
+-🤔我正在寻求有关...的帮助 面试
+-💬向我询问... 任何都行
+-📫如何联络我：... 博客私信我，博客地址在下面
+-😄代词：... 什么鬼
+-⚡有趣的事实：...https://blog.csdn.net/u014540814
